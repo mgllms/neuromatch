@@ -1,3 +1,3 @@
-# Neuromatch
+# neuromatch-cn
 
-My Neuromatch Academy notebooks.
+
